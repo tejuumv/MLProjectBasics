@@ -1,0 +1,4 @@
+2026-05-31 04:51:08,030 root         INFO     Initiating data ingestion
+2026-05-31 04:51:08,035 root         INFO     Read the DataFrame successfully
+2026-05-31 04:51:08,037 root         INFO     Train Test Split Initiated
+2026-05-31 04:51:08,040 root         INFO     Ingestion Completed successfully

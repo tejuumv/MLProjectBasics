@@ -1,0 +1,18 @@
+2026-06-03 00:57:55,127 root         INFO     Initiating data ingestion
+2026-06-03 00:57:55,131 root         INFO     Read the DataFrame successfully
+2026-06-03 00:57:55,133 root         INFO     Train Test Split Initiated
+2026-06-03 00:57:55,136 root         INFO     Ingestion Completed successfully
+2026-06-03 00:57:55,137 root         INFO     Read train and test data completed.
+2026-06-03 00:57:55,137 root         INFO     Obtaining preprocessing object.
+2026-06-03 00:57:55,137 root         INFO     Numerical column standard scaling completed.
+2026-06-03 00:57:55,137 root         INFO     Categorical column encoding completed.
+2026-06-03 00:59:54,986 root         INFO     Initiating data ingestion
+2026-06-03 00:59:54,990 root         INFO     Read the DataFrame successfully
+2026-06-03 00:59:54,992 root         INFO     Train Test Split Initiated
+2026-06-03 00:59:54,995 root         INFO     Ingestion Completed successfully
+2026-06-03 00:59:54,996 root         INFO     Read train and test data completed.
+2026-06-03 00:59:54,996 root         INFO     Obtaining preprocessing object.
+2026-06-03 00:59:54,996 root         INFO     Numerical column standard scaling completed.
+2026-06-03 00:59:54,996 root         INFO     Categorical column encoding completed.
+2026-06-03 00:59:54,997 root         INFO     Applying preprocessing object on train and test dataframes.
+2026-06-03 00:59:55,003 root         INFO     Saving preprocessed transformer object.
