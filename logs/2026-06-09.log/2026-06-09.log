@@ -1,0 +1,74 @@
+2026-06-09 21:49:49,715 root         INFO     Initiating data ingestion
+2026-06-09 21:49:49,717 root         INFO     Read the DataFrame successfully
+2026-06-09 21:49:49,719 root         INFO     Train Test Split Initiated
+2026-06-09 21:49:49,722 root         INFO     Ingestion Completed successfully
+2026-06-09 21:49:49,723 root         INFO     Read train and test data completed.
+2026-06-09 21:49:49,723 root         INFO     Obtaining preprocessing object.
+2026-06-09 21:49:49,723 root         INFO     Numerical column standard scaling completed.
+2026-06-09 21:49:49,723 root         INFO     Categorical column encoding completed.
+2026-06-09 21:49:49,724 root         INFO     Applying preprocessing object on train and test dataframes.
+2026-06-09 21:49:49,732 root         INFO     Saving preprocessed transformer object.
+2026-06-09 21:51:17,476 root         INFO     Initiating data ingestion
+2026-06-09 21:51:17,477 root         INFO     Read the DataFrame successfully
+2026-06-09 21:51:17,478 root         INFO     Train Test Split Initiated
+2026-06-09 21:51:17,480 root         INFO     Ingestion Completed successfully
+2026-06-09 21:51:17,481 root         INFO     Read train and test data completed.
+2026-06-09 21:51:17,481 root         INFO     Obtaining preprocessing object.
+2026-06-09 21:51:17,481 root         INFO     Numerical column standard scaling completed.
+2026-06-09 21:51:17,481 root         INFO     Categorical column encoding completed.
+2026-06-09 21:51:17,481 root         INFO     Applying preprocessing object on train and test dataframes.
+2026-06-09 21:51:17,485 root         INFO     Saving preprocessed transformer object.
+2026-06-09 21:53:17,293 root         INFO     Initiating data ingestion
+2026-06-09 21:53:17,296 root         INFO     Read the DataFrame successfully
+2026-06-09 21:53:17,298 root         INFO     Train Test Split Initiated
+2026-06-09 21:53:17,301 root         INFO     Ingestion Completed successfully
+2026-06-09 21:53:17,302 root         INFO     Read train and test data completed.
+2026-06-09 21:53:17,302 root         INFO     Obtaining preprocessing object.
+2026-06-09 21:53:17,302 root         INFO     Numerical column standard scaling completed.
+2026-06-09 21:53:17,302 root         INFO     Categorical column encoding completed.
+2026-06-09 21:53:17,303 root         INFO     Applying preprocessing object on train and test dataframes.
+2026-06-09 21:53:17,308 root         INFO     Saving preprocessed transformer object.
+2026-06-09 21:53:52,987 root         INFO     Initiating data ingestion
+2026-06-09 21:53:52,988 root         INFO     Read the DataFrame successfully
+2026-06-09 21:53:52,989 root         INFO     Train Test Split Initiated
+2026-06-09 21:53:52,991 root         INFO     Ingestion Completed successfully
+2026-06-09 21:53:52,992 root         INFO     Read train and test data completed.
+2026-06-09 21:53:52,992 root         INFO     Obtaining preprocessing object.
+2026-06-09 21:53:52,992 root         INFO     Numerical column standard scaling completed.
+2026-06-09 21:53:52,992 root         INFO     Categorical column encoding completed.
+2026-06-09 21:53:52,992 root         INFO     Applying preprocessing object on train and test dataframes.
+2026-06-09 21:53:52,996 root         INFO     Saving preprocessed transformer object.
+2026-06-09 21:54:45,510 root         INFO     Initiating data ingestion
+2026-06-09 21:54:45,512 root         INFO     Read the DataFrame successfully
+2026-06-09 21:54:45,513 root         INFO     Train Test Split Initiated
+2026-06-09 21:54:45,515 root         INFO     Ingestion Completed successfully
+2026-06-09 21:54:45,516 root         INFO     Read train and test data completed.
+2026-06-09 21:54:45,516 root         INFO     Obtaining preprocessing object.
+2026-06-09 21:54:45,516 root         INFO     Numerical column standard scaling completed.
+2026-06-09 21:54:45,516 root         INFO     Categorical column encoding completed.
+2026-06-09 21:54:45,516 root         INFO     Applying preprocessing object on train and test dataframes.
+2026-06-09 21:54:45,520 root         INFO     Saving preprocessed transformer object.
+2026-06-09 21:54:45,521 root         INFO     Split training and test input data
+2026-06-09 22:05:17,809 root         INFO     Initiating data ingestion
+2026-06-09 22:05:17,813 root         INFO     Read the DataFrame successfully
+2026-06-09 22:05:17,815 root         INFO     Train Test Split Initiated
+2026-06-09 22:05:17,818 root         INFO     Ingestion Completed successfully
+2026-06-09 22:05:17,819 root         INFO     Read train and test data completed.
+2026-06-09 22:05:17,819 root         INFO     Obtaining preprocessing object.
+2026-06-09 22:05:17,819 root         INFO     Numerical column standard scaling completed.
+2026-06-09 22:05:17,819 root         INFO     Categorical column encoding completed.
+2026-06-09 22:05:17,820 root         INFO     Applying preprocessing object on train and test dataframes.
+2026-06-09 22:05:17,825 root         INFO     Saving preprocessed transformer object.
+2026-06-09 22:05:17,826 root         INFO     Split training and test input data
+2026-06-09 22:34:08,950 root         INFO     Initiating data ingestion
+2026-06-09 22:34:08,954 root         INFO     Read the DataFrame successfully
+2026-06-09 22:34:08,956 root         INFO     Train Test Split Initiated
+2026-06-09 22:34:08,959 root         INFO     Ingestion Completed successfully
+2026-06-09 22:34:08,960 root         INFO     Read train and test data completed.
+2026-06-09 22:34:08,960 root         INFO     Obtaining preprocessing object.
+2026-06-09 22:34:08,960 root         INFO     Numerical column standard scaling completed.
+2026-06-09 22:34:08,960 root         INFO     Categorical column encoding completed.
+2026-06-09 22:34:08,961 root         INFO     Applying preprocessing object on train and test dataframes.
+2026-06-09 22:34:08,966 root         INFO     Saving preprocessed transformer object.
+2026-06-09 22:34:08,967 root         INFO     Split training and test input data
+2026-06-09 22:34:09,074 root         INFO     Best model on both train and test data: RandomForestRegressor()

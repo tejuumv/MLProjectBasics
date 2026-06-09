@@ -19,7 +19,7 @@ class DataTransformationConfig:
 
 class DataTransformation:
     def __init__(self):
-        self.data_transforamtion_config = DataTransformationConfig()
+        self.data_transformation_config = DataTransformationConfig()
 
     # FIX 2: Removed unused train_data, test_data arguments to keep it clean
     def get_data_transformer_object(self):
@@ -103,14 +103,14 @@ class DataTransformation:
 
             # This will trigger your utility helper to write to the artifacts folder
             save_object(
-                file_path=self.data_transforamtion_config.preprocessor_obj_file_path,
+                file_path=self.data_transformation_config.preprocessor_obj_file_path,
                 obj=preprocessing_obj
             )
 
             return (
                 train_arr,
                 test_arr,
-                self.data_transforamtion_config.preprocessor_obj_file_path,
+                self.data_transformation_config.preprocessor_obj_file_path,
             )
 
         except Exception as e:
