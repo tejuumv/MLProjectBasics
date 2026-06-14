@@ -126,6 +126,4 @@ Logs are written to `logs/<YYYY-MM-DD>.log` and include timestamps, module names
 
 ---
 
-## Author
 
-**Tejasvi** — `hustlers037@gmail.com`
