@@ -1,0 +1,157 @@
+2026-06-13 01:21:47,206 werkzeug     INFO     [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2026-06-13 01:21:47,206 werkzeug     INFO     [33mPress CTRL+C to quit[0m
+2026-06-13 01:21:47,207 werkzeug     INFO      * Restarting with stat
+2026-06-13 01:21:47,918 werkzeug     WARNING   * Debugger is active!
+2026-06-13 01:21:47,934 werkzeug     INFO      * Debugger PIN: 428-472-768
+2026-06-13 01:22:23,690 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:22:23] "GET / HTTP/1.1" 200 -
+2026-06-13 01:22:23,716 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:22:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-06-13 01:22:31,215 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:22:31] "[33mGET /home HTTP/1.1[0m" 404 -
+2026-06-13 01:22:40,738 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:22:40] "[33mGET /docs HTTP/1.1[0m" 404 -
+2026-06-13 01:23:43,185 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:23:43] "[33mGET /predict_datapoint HTTP/1.1[0m" 404 -
+2026-06-13 01:23:46,040 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:23:46] "[33mGET /predict_datapoint HTTP/1.1[0m" 404 -
+2026-06-13 01:23:46,990 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:23:46] "[33mGET /predict_datapoint HTTP/1.1[0m" 404 -
+2026-06-13 01:24:22,131 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:24:22] "GET /predictdata HTTP/1.1" 200 -
+2026-06-13 01:24:53,171 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:24:53] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:24:53,195 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:24:53] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2026-06-13 01:24:53,196 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:24:53] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2026-06-13 01:24:53,207 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:24:53] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=LBZyNbgnvDlMXSXG5G8u HTTP/1.1" 200 -
+2026-06-13 01:24:53,213 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:24:53] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2026-06-13 01:27:13,562 werkzeug     INFO      * Detected change in '/Users/tejasvimalvi/Desktop/ML_Projects/app.py', reloading
+2026-06-13 01:27:13,673 werkzeug     INFO      * Restarting with stat
+2026-06-13 01:27:14,596 werkzeug     WARNING   * Debugger is active!
+2026-06-13 01:27:14,608 werkzeug     INFO      * Debugger PIN: 428-472-768
+2026-06-13 01:27:57,824 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:27:57] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:27:57,851 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:27:57] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-06-13 01:27:57,853 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:27:57] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-06-13 01:27:57,857 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:27:57] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=InUbCx9y26oNNbEaL4L9 HTTP/1.1" 200 -
+2026-06-13 01:27:57,860 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:27:57] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-06-13 01:28:12,191 werkzeug     INFO     [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2026-06-13 01:28:12,191 werkzeug     INFO     [33mPress CTRL+C to quit[0m
+2026-06-13 01:28:12,192 werkzeug     INFO      * Restarting with stat
+2026-06-13 01:28:12,891 werkzeug     WARNING   * Debugger is active!
+2026-06-13 01:28:12,901 werkzeug     INFO      * Debugger PIN: 428-472-768
+2026-06-13 01:28:17,206 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:28:17] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:28:17,230 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:28:17] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-06-13 01:28:17,230 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:28:17] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-06-13 01:28:17,235 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:28:17] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=i0pCXGFlPZgFuI28fXLq HTTP/1.1" 200 -
+2026-06-13 01:28:17,238 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:28:17] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-06-13 01:28:19,282 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:28:19] "GET /predictdata HTTP/1.1" 200 -
+2026-06-13 01:28:38,429 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:28:38] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:28:38,447 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:28:38] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-06-13 01:28:38,447 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:28:38] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-06-13 01:28:38,451 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:28:38] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=i0pCXGFlPZgFuI28fXLq HTTP/1.1[0m" 304 -
+2026-06-13 01:28:38,456 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:28:38] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-06-13 01:30:38,234 werkzeug     INFO      * Detected change in '/Users/tejasvimalvi/Desktop/ML_Projects/app.py', reloading
+2026-06-13 01:30:38,325 werkzeug     INFO      * Restarting with stat
+2026-06-13 01:30:39,233 werkzeug     WARNING   * Debugger is active!
+2026-06-13 01:30:39,247 werkzeug     INFO      * Debugger PIN: 428-472-768
+2026-06-13 01:30:45,083 werkzeug     INFO     [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2026-06-13 01:30:45,083 werkzeug     INFO     [33mPress CTRL+C to quit[0m
+2026-06-13 01:30:45,083 werkzeug     INFO      * Restarting with stat
+2026-06-13 01:30:45,787 werkzeug     WARNING   * Debugger is active!
+2026-06-13 01:30:45,796 werkzeug     INFO      * Debugger PIN: 428-472-768
+2026-06-13 01:30:51,025 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:30:51] "GET /predictdata HTTP/1.1" 200 -
+2026-06-13 01:31:28,734 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:31:28] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:31:28,758 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:31:28] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-06-13 01:31:28,758 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:31:28] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-06-13 01:31:28,767 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:31:28] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=CJF336cLBRae2GFzx170 HTTP/1.1" 200 -
+2026-06-13 01:31:28,778 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:31:28] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-06-13 01:38:08,381 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:38:08] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:38:08,400 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:38:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-06-13 01:38:08,400 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:38:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-06-13 01:38:08,407 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:38:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=CJF336cLBRae2GFzx170 HTTP/1.1[0m" 304 -
+2026-06-13 01:38:08,413 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:38:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-06-13 01:40:00,671 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:40:00] "GET /predictdata HTTP/1.1" 200 -
+2026-06-13 01:40:20,090 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:40:20] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:40:20,109 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:40:20] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-06-13 01:40:20,109 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:40:20] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-06-13 01:40:20,113 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:40:20] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=CJF336cLBRae2GFzx170 HTTP/1.1[0m" 304 -
+2026-06-13 01:40:20,119 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:40:20] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-06-13 01:41:07,596 werkzeug     INFO      * Detected change in '/Users/tejasvimalvi/Desktop/ML_Projects/app.py', reloading
+2026-06-13 01:41:07,729 werkzeug     INFO      * Restarting with stat
+2026-06-13 01:41:08,692 werkzeug     WARNING   * Debugger is active!
+2026-06-13 01:41:08,705 werkzeug     INFO      * Debugger PIN: 428-472-768
+2026-06-13 01:41:09,090 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:41:09] "GET /predictdata HTTP/1.1" 200 -
+2026-06-13 01:41:23,199 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:41:23] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:41:23,224 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:41:23] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-06-13 01:41:23,225 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:41:23] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-06-13 01:41:23,229 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:41:23] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=Zx1XXeByf1KzijB9XKZF HTTP/1.1" 200 -
+2026-06-13 01:41:23,234 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:41:23] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-06-13 01:42:30,751 werkzeug     INFO      * Detected change in '/Users/tejasvimalvi/Desktop/ML_Projects/src/pipeline/predict_pipeline.py', reloading
+2026-06-13 01:42:30,853 werkzeug     INFO      * Restarting with stat
+2026-06-13 01:42:31,743 werkzeug     WARNING   * Debugger is active!
+2026-06-13 01:42:31,754 werkzeug     INFO      * Debugger PIN: 428-472-768
+2026-06-13 01:42:35,592 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:42:35] "GET /predictdata HTTP/1.1" 200 -
+2026-06-13 01:42:52,268 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:42:52] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:42:52,292 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:42:52] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-06-13 01:42:52,292 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:42:52] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-06-13 01:42:52,296 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:42:52] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=Fs0YTmJ9RR4yn1GNjttq HTTP/1.1" 200 -
+2026-06-13 01:42:52,302 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:42:52] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-06-13 01:43:31,297 werkzeug     INFO      * Detected change in '/Users/tejasvimalvi/Desktop/ML_Projects/src/pipeline/predict_pipeline.py', reloading
+2026-06-13 01:43:31,408 werkzeug     INFO      * Restarting with stat
+2026-06-13 01:43:32,297 werkzeug     WARNING   * Debugger is active!
+2026-06-13 01:43:32,307 werkzeug     INFO      * Debugger PIN: 428-472-768
+2026-06-13 01:43:33,244 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:43:33] "GET /predictdata HTTP/1.1" 200 -
+2026-06-13 01:43:48,964 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:43:48] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:43:48,988 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:43:48] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-06-13 01:43:48,988 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:43:48] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-06-13 01:43:48,994 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:43:48] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=zlKnUKaz52w8NtJRoQnF HTTP/1.1" 200 -
+2026-06-13 01:43:48,998 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:43:48] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-06-13 01:46:59,821 werkzeug     INFO      * Detected change in '/Users/tejasvimalvi/Desktop/ML_Projects/src/pipeline/predict_pipeline.py', reloading
+2026-06-13 01:46:59,938 werkzeug     INFO      * Restarting with stat
+2026-06-13 01:47:00,826 werkzeug     WARNING   * Debugger is active!
+2026-06-13 01:47:00,837 werkzeug     INFO      * Debugger PIN: 428-472-768
+2026-06-13 01:47:04,042 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:47:04] "GET /predictdata HTTP/1.1" 200 -
+2026-06-13 01:47:25,305 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:47:25] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:47:25,323 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:47:25] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-06-13 01:47:25,324 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:47:25] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-06-13 01:47:25,327 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:47:25] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=LaMK5SvkrPnqgilegC8T HTTP/1.1" 200 -
+2026-06-13 01:47:25,332 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:47:25] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-06-13 01:48:51,671 werkzeug     INFO      * Detected change in '/Users/tejasvimalvi/Desktop/ML_Projects/src/pipeline/predict_pipeline.py', reloading
+2026-06-13 01:48:51,783 werkzeug     INFO      * Restarting with stat
+2026-06-13 01:48:52,668 werkzeug     WARNING   * Debugger is active!
+2026-06-13 01:48:52,678 werkzeug     INFO      * Debugger PIN: 428-472-768
+2026-06-13 01:48:53,606 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:48:53] "GET /predictdata HTTP/1.1" 200 -
+2026-06-13 01:49:11,856 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:49:11] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:49:11,885 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:49:11] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-06-13 01:49:11,886 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:49:11] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-06-13 01:49:11,889 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:49:11] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=Z8TSn9IlAr06dXC5anem HTTP/1.1" 200 -
+2026-06-13 01:49:11,894 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:49:11] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-06-13 01:49:53,933 werkzeug     INFO     [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2026-06-13 01:49:53,933 werkzeug     INFO     [33mPress CTRL+C to quit[0m
+2026-06-13 01:49:53,934 werkzeug     INFO      * Restarting with stat
+2026-06-13 01:49:54,634 werkzeug     WARNING   * Debugger is active!
+2026-06-13 01:49:54,644 werkzeug     INFO      * Debugger PIN: 428-472-768
+2026-06-13 01:50:00,506 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:50:00] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:50:00,533 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:50:00] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-06-13 01:50:00,534 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:50:00] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-06-13 01:50:00,540 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:50:00] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=HbxsaqLOWJGwXmb1rSdr HTTP/1.1" 200 -
+2026-06-13 01:50:00,545 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:50:00] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-06-13 01:50:07,422 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:50:07] "GET /predictdata HTTP/1.1" 200 -
+2026-06-13 01:50:22,400 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:50:22] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+2026-06-13 01:50:22,416 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:50:22] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2026-06-13 01:50:22,417 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:50:22] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2026-06-13 01:50:22,422 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:50:22] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=HbxsaqLOWJGwXmb1rSdr HTTP/1.1[0m" 304 -
+2026-06-13 01:50:22,428 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:50:22] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2026-06-13 01:51:56,823 werkzeug     INFO      * Detected change in '/Users/tejasvimalvi/Desktop/ML_Projects/app.py', reloading
+2026-06-13 01:51:56,921 werkzeug     INFO      * Restarting with stat
+2026-06-13 01:51:57,805 werkzeug     WARNING   * Debugger is active!
+2026-06-13 01:51:57,815 werkzeug     INFO      * Debugger PIN: 428-472-768
+2026-06-13 01:51:58,332 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:51:58] "GET /predictdata HTTP/1.1" 200 -
+2026-06-13 01:52:18,366 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:52:18] "POST /predictdata HTTP/1.1" 200 -
+2026-06-13 01:52:41,651 werkzeug     INFO     127.0.0.1 - - [13/Jun/2026 01:52:41] "POST /predictdata HTTP/1.1" 200 -
+2026-06-14 17:06:31,474 werkzeug     INFO      * Detected change in '/Users/tejasvimalvi/Desktop/ML_Projects/application.py', reloading
+2026-06-14 17:06:31,655 werkzeug     INFO      * Restarting with stat
+2026-06-14 17:08:23,090 werkzeug     INFO      * Restarting with stat

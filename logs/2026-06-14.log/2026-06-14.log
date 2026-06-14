@@ -1,0 +1,5 @@
+2026-06-14 17:06:32,807 werkzeug     WARNING   * Debugger is active!
+2026-06-14 17:06:32,825 werkzeug     INFO      * Debugger PIN: 428-472-768
+2026-06-14 17:08:22,945 werkzeug     INFO      * Detected change in '/Users/tejasvimalvi/Desktop/ML_Projects/application.py', reloading
+2026-06-14 17:08:24,074 werkzeug     WARNING   * Debugger is active!
+2026-06-14 17:08:24,096 werkzeug     INFO      * Debugger PIN: 428-472-768

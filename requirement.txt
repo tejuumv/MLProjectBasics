@@ -6,3 +6,4 @@ dill
 scikit-learn
 catboost
 xgboost
+flask
